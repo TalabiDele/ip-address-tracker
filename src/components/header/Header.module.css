@@ -1,3 +1,26 @@
 .header {
-  color: yellow;
+  text-align: center;
+  background: url("../img/pattern-bg.png");
+  height: 15rem;
+  padding-top: 3rem;
+}
+
+.header h1 {
+  color: white;
+}
+
+input {
+  width: 25rem;
+  height: 2.5rem;
+  border-radius: 10px;
+  border: none;
+}
+
+button {
+  background-color: hsl(0, 0%, 17%);
+  color: white;
+  height: 2.5rem;
+  border-radius: 10px;
+  border: none;
+  width: 3rem
 }
